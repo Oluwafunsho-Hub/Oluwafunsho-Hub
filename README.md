@@ -10,7 +10,7 @@ A results-driven Cybersecurity Analyst with two years of experience protecting c
 
 ---
 ### Core Focus Areas
-Healthcare Security & HIPAA Risk Governance
+Healthcare Security & HIPAA, GDPR Risk Governance
 
 Threat Detection & MITRE ATT&CK Mapping
 
